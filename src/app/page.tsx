@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
@@ -221,7 +221,6 @@ export default function Home() {
               ]
             }
           ]}
-          logoText="LMAO Hotel Hawaii"
           copyrightText="© 2024 LMAO Hotel Hawaii. All rights reserved."
         />
       </div>
